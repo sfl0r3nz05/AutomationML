@@ -18,6 +18,8 @@
 
 ### Create a Model
 
+#### Steps to create a model
+
 - Import the Data
 - Clean the Data
 - Split the Data into Taining/Test Sets
