@@ -14,6 +14,7 @@
 - [Download the CSV sample file compressed as a zip file](https://bit.ly/3muqqta).
 - Extract the `*.csv` from the zip file.
 - Upload the dataset into the Jupyter Notebook.
+- The `*.csv` is included in the folder `~/Dataset`
 
 ### Create a Model
 
